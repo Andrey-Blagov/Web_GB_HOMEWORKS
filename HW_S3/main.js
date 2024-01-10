@@ -1,10 +1,10 @@
 function greeting(nm){
-    alert(`Nice to meet you, ${n} !!!`);
+    alert(`Nice to meet you, ${nm} !!!`);
     
-    console.log(`Nice to meet you, ${n} !!!`);
+    console.log(`Nice to meet you, ${nm} !!!`);
 }
 
-const n = prompt('Hello! What is your name ?')
+const name = prompt('Hello! What is your name ?');
 
 greeting(n);
 
