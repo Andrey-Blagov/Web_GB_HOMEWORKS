@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(74, 126, 194);
+}
+
+@font-face{
+    font-family: 'TeddyBear';
+    src: url(Fonts/teddy-bear.ttf);
+}
+
+h1{
+    font-size: 100px;
+    color: #f80404;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+h2{
+    font-size: 80px;
+    color: #9ff804;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+h1,h2{
+    font-family: 'TeddyBear';
+}
